@@ -1,0 +1,2 @@
+The Twelve is an open source christian ARPG game with an Diablo style combat system and Zelda like graphics. 
+Our main game engine we use is Unity and we are always looking for new contributors to help, whether you're an 2D artist or a developer, you're welcome to join us here! :)
